@@ -5,9 +5,9 @@ use leptos_router::{components::*, path};
 use web_sys::window;
 
 // Modules
-// mod components;
+mod components;
 mod constants;
-// mod models;
+mod models;
 mod pages;
 
 use crate::pages::home::Home;
